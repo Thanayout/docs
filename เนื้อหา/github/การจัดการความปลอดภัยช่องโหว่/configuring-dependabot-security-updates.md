@@ -59,3 +59,4 @@ You can also enable or disable {% data variables.product.prodname_dependabot_sec
 - "[About alerts for vulnerable dependencies](/github/managing-security-vulnerabilities/about-alerts-for-vulnerable-dependencies)"
 - "[Managing data use settings for your private repository](/github/understanding-how-github-uses-and-protects-your-data/managing-data-use-settings-for-your-private-repository)"
 - "[Supported package ecosystems](/github/visualizing-repository-data-with-graphs/about-the-dependency-graph#supported-package-ecosystems)"
+- "[configuring-dependabot-security-updates.md]
